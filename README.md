@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 
 <!--
 **su6378/su6378** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
