@@ -2,6 +2,7 @@
 
 #### 안녕하세요! 사용자가 편리하게 서비스를 이용할 수 있도록 노력하는 개발자 조수연 입니다!
 #### 포기하지 않고 항상 도전하고 학습하는 것을 좋아합니다. 😃
+<hr/>
 
 ## 👍 Skills
 
@@ -15,8 +16,15 @@
   -->
  <div>
    <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp
-   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<hr/>
+
+### Algorithm :
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=su6378)(https://solved.ac/su6378/)
+
 <!--
+
+
 **su6378/su6378** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -31,7 +39,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=su6378&show_icons=true&theme=radical)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=su6378)](https://solved.ac/su6378/)
+
 
