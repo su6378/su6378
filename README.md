@@ -30,8 +30,10 @@
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=su6378)
 <!-- ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=su6378)(https://solved.ac/su6378/) -->
 
-+ 프로그래머스 [Programmers-Algorithm](https://github.com/su6378/Programmers-Algorithm)
-  
++ 백준 [Baekjoon-Algorithm](https://github.com/su6378/Baekjoon-Algorithm) <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logoColor=white">
++ 프로그래머스 [Programmers-Algorithm](https://github.com/su6378/Programmers-Algorithm) <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logoColor=white">
++ SWEA [SWEA-Algorithm](https://github.com/su6378/SWEA-Algorithm) <img src="https://img.shields.io/badge/java-007396?style=flat&logoColor=white">
+
 
 <!--
 
