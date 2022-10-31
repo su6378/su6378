@@ -11,16 +11,28 @@
 
 ### Platforms & Languages
 <div>
-  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"><br></br>
-<!--   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-  -->
- <div>
+  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">&nbsp
    <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp
-   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp</div>
+   
+### Tools
+ <div>
+   <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">&nbsp
+   <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">&nbsp
+   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">&nbsp
+   <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"></div>
+   
 <hr/>
+  
+  ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+  
 
-### Algorithm :
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=su6378)(https://solved.ac/su6378/)
+## Algorithm
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=su6378)
+<!-- ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=su6378)(https://solved.ac/su6378/) -->
+
+프로그래머스 [Programmers-Algorithm](https://github.com/su6378/Programmers-Algorithm)
+  
 
 <!--
 
