@@ -21,7 +21,7 @@
    <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">&nbsp
    <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">&nbsp
    <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"></div>
-<hr/>![109650676](https://user-images.githubusercontent.com/48742378/198957720-9db24819-5538-42e7-b4fb-528211eb4055.png)
+<hr/>
 
   
   
