@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsu6378&count_bg=%239C38F2&title_bg=%23555555&icon=android.svg&icon_color=%233DDB84&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### Hi! 👋
 
 #### 안녕하세요! 사용자가 편리하게 서비스를 이용할 수 있도록 노력하는 개발자 조수연 입니다!
