@@ -35,7 +35,7 @@
 ## GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=su6378&show_icons=true&theme=chartreuse-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su6378&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su6378&layout=compact&theme=chartreuse-dark)
 
 <!-- ![snake gif](https://github.com/su6378/su6378/blob/output/github-contribution-grid-snake.svg) -->
 
