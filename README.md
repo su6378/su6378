@@ -15,28 +15,29 @@
   <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">&nbsp
    <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp
    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp</div>
-   
+
+### Tools
+
+<div>
+  <img src="https://img.shields.io/badge/Android%20Studio-313335?style=flat-square&logo=androidstudio&logoColor=99CC00"/> 
+  <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Notion-EEEEEE?style=flat-square&logo=Notion&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Source%20Tree-005DF4?style=flat-square&logo=sourcetree&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/> 
+
 ## Algorithm
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=su6378)
-<!-- ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=su6378)(https://solved.ac/su6378/) -->
-<img src="https://user-images.githubusercontent.com/48742378/198957720-9db24819-5538-42e7-b4fb-528211eb4055.png" width="36" height="36"/> 알고리즘 스터디  [AlgorithmStudy](https://github.com/SAlgorithmStudy6/AlgorithmStudy) <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=flat&logoColor=white">
 
-<!--
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=su6378)](https://solved.ac/su6378)</br>
 
+<img src="https://user-images.githubusercontent.com/48742378/198957720-9db24819-5538-42e7-b4fb-528211eb4055.png" width="36" height="36"/> 알고리즘 스터디  [AlgorithmStudy](https://github.com/SAlgorithmStudy6/AlgorithmStudy) <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=flat&logoColor=white"><hr/>
 
-**su6378/su6378** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=su6378&show_icons=true&theme=chartreuse-dark)
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su6378&layout=compact&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ![snake gif](https://github.com/su6378/su6378/blob/output/github-contribution-grid-snake.svg) -->
 
-
+<!-- ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=su6378) -->
 
