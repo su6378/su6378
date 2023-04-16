@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Notion-EEEEEE?style=flat-square&logo=Notion&logoColor=black"/> 
   <img src="https://img.shields.io/badge/Source%20Tree-005DF4?style=flat-square&logo=sourcetree&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></div>
 
 ## Algorithm
 
@@ -33,9 +33,8 @@
 <img src="https://user-images.githubusercontent.com/48742378/198957720-9db24819-5538-42e7-b4fb-528211eb4055.png" width="36" height="36"/> 알고리즘 스터디  [AlgorithmStudy](https://github.com/SAlgorithmStudy6/AlgorithmStudy) <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=flat&logoColor=white"><hr/>
 
 ## GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=su6378&show_icons=true&theme=chartreuse-dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su6378&layout=compact&theme=chartreuse-dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=su6378&show_icons=true&theme=chartreuse-dark)&nbsp;&nbsp;&nbsp;
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su6378&layout=compact&theme=chartreuse-dark)
 
 <!-- ![snake gif](https://github.com/su6378/su6378/blob/output/github-contribution-grid-snake.svg) -->
 
