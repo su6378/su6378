@@ -8,8 +8,6 @@
 
 ## 👍 Skills
 
-### 주로 사용하는 기술입니다. 😄
-
 ### Platforms & Languages
 <div>
   <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">&nbsp
