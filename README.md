@@ -24,6 +24,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></div>
 
+## 💎 Education
+- Samsung Software Academy for Youth (2022.07 ~ 2023.06)
+  - 8th Mobile Track
+- Ellim Factory (2021.08 ~ 2022.02)
+  - Android Dev
+- Daegu University (2014.03 ~ 2021.02)
+  - Computer Science and Engineering
+
+
 ## Algorithm
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=su6378)](https://solved.ac/su6378)</br>
