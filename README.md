@@ -25,7 +25,7 @@
 
 ## 💎 Career & Education
 - Samsung DX Algorithm (2023.07 ~ 2023.08)
-  - Summer S/W Algorithm lecture 
+  - Summer S/W Algorithm Lecture 
 - Samsung Software Academy for Youth (2022.07 ~ 2023.06)
   - 8th Mobile Track
 - Ellim Factory (2021.08 ~ 2022.02)
