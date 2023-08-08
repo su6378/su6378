@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></div>
 
 ## 💎 Career & Education
+- Samsung DX Algorithm (2023.07 ~ 2023.08)
+  - Summer S/W Algorithm lecture 
 - Samsung Software Academy for Youth (2022.07 ~ 2023.06)
   - 8th Mobile Track
 - Ellim Factory (2021.08 ~ 2022.02)
