@@ -38,7 +38,7 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=su6378)](https://solved.ac/su6378)</br>
 
-<img src="https://user-images.githubusercontent.com/48742378/198957720-9db24819-5538-42e7-b4fb-528211eb4055.png" width="36" height="36"/> 알고리즘 스터디  [AlgorithmStudy](https://github.com/SAlgorithmStudy6/AlgorithmStudy) <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=flat&logoColor=white"><hr/>
+<img src="https://user-images.githubusercontent.com/48742378/198957720-9db24819-5538-42e7-b4fb-528211eb4055.png" width="36" height="36"/> 알고리즘 스터디  [AlgorithmStudy](https://github.com/SAlgorithmStudy6/AlgorithmStudy) <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=flat&logoColor=white">
 
 ## GitHub
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=su6378&show_icons=true&theme=chartreuse-dark)&nbsp;&nbsp;&nbsp;
