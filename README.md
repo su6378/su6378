@@ -24,9 +24,9 @@
   <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></div>
 
 ## 💎 Career & Education
-- DGB DAEGU BANK
+- DGB Daegu Bank
   - ICT Programmer (2024.01 ~ )
-- DGB DAEGU BANK
+- DGB Daegu Bank
   - ICT Intern (2023.10 ~ 2023.11)
 - Samsung DX Algorithm (2023.07 ~ 2023.08)
   - Summer S/W Algorithm Lecture 
