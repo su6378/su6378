@@ -27,7 +27,7 @@
 - DGB DAEGU BANK
   - ICT Programmer (2024.01 ~ )
 - DGB DAEGU BANK
-  - ICT Intern (2023.11 ~ 2023.12)
+  - ICT Intern (2023.10 ~ 2023.11)
 - Samsung DX Algorithm (2023.07 ~ 2023.08)
   - Summer S/W Algorithm Lecture 
 - Samsung Software Academy for Youth (2022.07 ~ 2023.06)
