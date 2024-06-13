@@ -25,7 +25,7 @@
 
 ## 💎 Career & Education
 - DGB Daegu Bank
-  - ICT Programmer (2024.01 ~ )
+  - ICT Programmer (2024.01 ~ 2024.06)
 - DGB Daegu Bank
   - ICT Intern (2023.10 ~ 2023.11)
 - Samsung DX Algorithm (2023.07 ~ 2023.08)
