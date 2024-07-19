@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></div>
 
 ## 💎 Career & Education
+- NH Bank
+  - ICT Programmer (2024.06 ~ )  
 - DGB Daegu Bank
   - ICT Programmer (2024.01 ~ 2024.06)
 - DGB Daegu Bank
