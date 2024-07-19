@@ -26,9 +26,9 @@
 ## 💎 Career & Education
 - NH Bank
   - ICT Programmer (2024.06 ~ )  
-- DGB Daegu Bank
+- iM Bank (DGB Daegu Bank)
   - ICT Programmer (2024.01 ~ 2024.06)
-- DGB Daegu Bank
+- iM Bank (DGB Daegu Bank)
   - ICT Intern (2023.10 ~ 2023.11)
 - Samsung DX Algorithm (2023.07 ~ 2023.08)
   - Summer S/W Algorithm Lecture 
