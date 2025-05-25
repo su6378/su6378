@@ -30,8 +30,6 @@
   - ICT Programmer (2024.01 ~ 2024.06)
 - iM Bank (DGB Daegu Bank)
   - ICT Intern (2023.10 ~ 2023.11)
-- Samsung DX Algorithm (2023.07 ~ 2023.08)
-  - Summer S/W Algorithm Lecture 
 - Samsung Software Academy for Youth (2022.07 ~ 2023.06)
   - 8th Mobile Track
 - Ellim Factory (2021.08 ~ 2022.02)
