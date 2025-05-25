@@ -25,7 +25,7 @@
 
 ## 💎 Career & Education
 - NH Bank
-  - ICT Programmer (2024.06 ~ )  
+  - ICT Programmer - Android (2024.06 ~ )  
 - iM Bank (DGB Daegu Bank)
   - ICT Programmer (2024.01 ~ 2024.06)
 - iM Bank (DGB Daegu Bank)
